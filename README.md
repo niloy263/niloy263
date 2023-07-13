@@ -11,7 +11,7 @@ Skills: JS / HTML / CSS/ PHP/ ML/ Nodejs/ Nestjs /Python/Java/ C# /C++ / C
 
 - 🌱 I’m currently learning Javascript, nestjs 
 - 💬 Ask me about Web Development 
-- ⚡ Fun fact: Still a learner! 
+- ⚡ Fun fact: As an human, I also can generate 70,000 thoughts in a day!!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niloy263)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/niloy-kundu-99372424a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/pepsmniloykundu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://instagram.com/niloy_kundu_//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/Niloy-Kundu-the-animator)  
