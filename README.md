@@ -1,4 +1,4 @@
-![Web Developer => Data Analyst](https://scontent.fcla1-1.fna.fbcdn.net/v/t39.30808-6/348588898_242624905120567_7708056102720820889_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEP2pIH6CIi_Z6e2_7_JA4ftrCBIvYUR5G2sIEi9hRHkbzoVwF_x1obTRZPIl0j5yIIH_wsPVZznyLmUnTTi0HP&_nc_ohc=MHlHFdBRdiYAX8y9joN&_nc_ht=scontent.fcla1-1.fna&oh=00_AfBC5UlkpRvxtEwCTPvLljsQW9_WoSOze2ZJblhEkSF5Lg&oe=64B3BD3F)
+![Web Developer -> Data Analyst](https://scontent.fcla1-1.fna.fbcdn.net/v/t39.30808-6/348588898_242624905120567_7708056102720820889_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEP2pIH6CIi_Z6e2_7_JA4ftrCBIvYUR5G2sIEi9hRHkbzoVwF_x1obTRZPIl0j5yIIH_wsPVZznyLmUnTTi0HP&_nc_ohc=MHlHFdBRdiYAX8y9joN&_nc_ht=scontent.fcla1-1.fna&oh=00_AfBC5UlkpRvxtEwCTPvLljsQW9_WoSOze2ZJblhEkSF5Lg&oe=64B3BD3F)
 
 ### Hi there 👋, I'm Niloy Kundu Adhar
 #### Web Developer => Data Analyst
