@@ -9,7 +9,7 @@ Enthusiastic Engineering degree with knowledge in coding and design. Organized a
 Skills: React/ JS / HTML / CSS/ PHP/ ML/ Nodejs/ Nestjs /Python/Java/ C# /C++ / C
 
 - 🌱 I’m currently learning Javascript, React, nestjs 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Image processing and little bit of Web Development 
 - ⚡ Fun fact: As an human, I also can generate 70,000 thoughts in a day!!
 
 
