@@ -6,7 +6,7 @@
 Enthusiastic Engineering degree with knowledge in coding and design. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Capability to work in teams by providing valuable support. Ability to learn new software and technologies.
 
 
-Skills: JS / HTML / CSS/ PHP/ ML/ Nodejs/ Nestjs /Python/Java/ C# /C++ / C
+Skills: React/ JS / HTML / CSS/ PHP/ ML/ Nodejs/ Nestjs /Python/Java/ C# /C++ / C
 
 - 🌱 I’m currently learning Javascript, React, nestjs 
 - 💬 Ask me about Web Development 
